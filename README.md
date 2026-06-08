@@ -15,6 +15,7 @@
 | # | Project | Algorithm | Dataset | Score |
 |---|---------|-----------|---------|-------|
 | 01 | [🏠 House Price Prediction](./01-linear-regression) | Linear Regression | Kaggle House Prices | R2: 0.76 |
+| 02 | [🚗 Car Fuel Prediction](./02-polynomial-regression) | Polynomial Regression | UCI Auto MPG | R2: 0.86 |
 
 ---
 
