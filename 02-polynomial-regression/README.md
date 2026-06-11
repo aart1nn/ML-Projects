@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚗 Car Fuel Consumption Prediction
-### Polynomial Regression Model — Auto MPG Dataset
+### Polynomial Regression Model — UCI Auto MPG Dataset
 
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a0533?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
@@ -52,6 +52,7 @@ Raw Data ──► Exploration ──► Feature Selection ──► Scaling ─
 
 ---
 
-## 💡 Key Insight
-**Polynomial Regression (degree=2)** outperformed Linear Regression,
-confirming that the relationship between car features and fuel consumption is **non-linear**.
+## 💡 Key Insights
+- **Polynomial Regression (degree=2)** outperformed Linear Regression
+- **weight** and **displacement** had the strongest correlation with fuel consumption
+- Non-linear relationships between features and MPG confirmed by better Polynomial fit ✅
