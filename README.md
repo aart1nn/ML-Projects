@@ -22,6 +22,7 @@ Each project follows a complete pipeline — from raw data to evaluation and vis
 | 01 | [🏠 House Price Prediction](./01-linear-regression) | Linear Regression | Kaggle House Prices | 0.76 |
 | 02 | [🚗 Car Fuel Prediction](./02-polynomial-regression) | Polynomial Regression | UCI Auto MPG | 0.86 |
 | 03 | [💎 Diamond Price Prediction](./03-svr) | Support Vector Regression | Kaggle Diamonds | 0.88 |
+| 04 | [🚲 Bike Rental Prediction](./04-decision-tree) | Decision Tree Regression | UCI Bike Sharing | 0.749 |
 
 ---
 
