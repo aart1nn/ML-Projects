@@ -23,6 +23,7 @@ Each project follows a complete pipeline — from raw data to evaluation and vis
 | 02 | [🚗 Car Fuel Prediction](./02-polynomial-regression) | Polynomial Regression | UCI Auto MPG | 0.86 |
 | 03 | [💎 Diamond Price Prediction](./03-svr) | Support Vector Regression | Kaggle Diamonds | 0.88 |
 | 04 | [🚲 Bike Rental Prediction](./04-decision-tree) | Decision Tree Regression | UCI Bike Sharing | 0.749 |
+| 05 | [🏥 Insurance Cost Prediction](./05-random-forest) | Random Forest Regression | Kaggle Insurance | 0.87 |
 
 ---
 
