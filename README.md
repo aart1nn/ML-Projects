@@ -34,7 +34,7 @@ Each project follows a complete pipeline — from raw data to evaluation and vis
 ✅ Feature Selection
 ✅ Feature Scaling
 ✅ Model Training
-✅ Evaluation (R2 & RMSE)
+✅ Evaluation Metrics (R2, RMSE, Accuracy, Precision, Recall, Confusion Matrix)
 ✅ Visualizations
 
 ---
