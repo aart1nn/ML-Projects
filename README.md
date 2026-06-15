@@ -17,7 +17,7 @@ Each project follows a complete pipeline — from raw data to evaluation and vis
 
 ## 📁 Projects
 
-| # | Project | Algorithm | Dataset | R2 Score |
+| # | Project | Algorithm | Dataset | Score |
 |---|---------|-----------|---------|----------|
 | 01 | [🏠 House Price Prediction](./01-linear-regression) | Linear Regression | Kaggle House Prices | 0.76 |
 | 02 | [🚗 Car Fuel Prediction](./02-polynomial-regression) | Polynomial Regression | UCI Auto MPG | 0.86 |
