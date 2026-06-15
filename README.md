@@ -24,6 +24,7 @@ Each project follows a complete pipeline — from raw data to evaluation and vis
 | 03 | [💎 Diamond Price Prediction](./03-svr) | Support Vector Regression | Kaggle Diamonds | 0.88 |
 | 04 | [🚲 Bike Rental Prediction](./04-decision-tree) | Decision Tree Regression | UCI Bike Sharing | 0.749 |
 | 05 | [🏥 Insurance Cost Prediction](./05-random-forest) | Random Forest Regression | Kaggle Insurance | 0.87 |
+| 06 | [💉 Diabetes Prediction](./06-logistic-regression) | Logistic Regression | UCI Pima Diabetes | Acc: 0.77 |
 
 ---
 
