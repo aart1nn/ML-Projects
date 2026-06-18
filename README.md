@@ -26,6 +26,7 @@ Each project follows a complete pipeline — from raw data to evaluation and vis
 | 05 | [🏥 Insurance Cost Prediction](./05-random-forest) | Random Forest Regression | Kaggle Insurance | 0.87 |
 | 06 | [💉 Diabetes Prediction](./06-logistic-regression) | Logistic Regression | UCI Pima Diabetes | Acc: 0.77 |
 | 07 | [🫀 Heart Disease Prediction](./07-knn) | K-Nearest Neighbors | Kaggle Heart Disease | Acc: 0.94 |
+| 08 | [🍷 Wine Quality Prediction](./08-svm) | Support Vector Machine | Kaggle Red Wine | Acc: 0.77 |
 
 ---
 
