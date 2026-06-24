@@ -49,6 +49,27 @@ ml_projects = {
 
 ---
 
+## 🗺️ My AI Roadmap
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║               ARTIN'S LEARNING JOURNEY                   ║
+╠══════════════════════════════════════════════════════════╣
+║  ██████████  Python                          ✅ Mastered ║
+║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
+║  ██████████  Machine Learning                ✅ Done     ║
+║  ████░░░░░░  Deep Learning                   🔥 Active   ║
+║  ░░░░░░░░░░  LLMs & Generative AI            🔮 Planned  ║
+║  ░░░░░░░░░░  AI Agents & Autonomous Systems  🚀 Goal     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## ⚙️ Each Project Includes
 
 ✅ Real Dataset
