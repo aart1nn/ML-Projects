@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=10+End-to-End+Machine+Learning+Projects;Real+Datasets+%7C+Real+Results+%7C+Real+Insights;Regression+%7C+Classification+%7C+NLP+%7C+and+more...;Built+with+Python+%7C+Scikit-Learn+%7C+Pandas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=11+End-to-End+Machine+Learning+Projects;Real+Datasets+%7C+Real+Results+%7C+Real+Insights;Regression+%7C+Classification+%7C+Clustering+%7C+NLP;Built+with+Python+%7C+Scikit-Learn+%7C+Pandas)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aart1nn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![Projects](https://img.shields.io/badge/PROJECTS-10-7c3aed?style=for-the-badge)
+![Projects](https://img.shields.io/badge/PROJECTS-11-7c3aed?style=for-the-badge)
 &nbsp;
 ![ML](https://img.shields.io/badge/MACHINE+LEARNING-✓-7c3aed?style=for-the-badge)
 
@@ -24,7 +24,7 @@
 ml_projects = {
     "goal":     "End-to-end ML projects on real-world datasets",
     "pipeline": "Load → Clean → Select → Scale → Train → Evaluate → Visualize",
-    "topics":   ["Regression", "Classification", "Ensemble", "SVM", "KNN", "NLP"],
+    "topics":   ["Regression", "Classification", "Ensemble", "SVM", "KNN", "NLP", "Clustering"],
     "tools":    ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib"],
     "status":   "Active & Growing 🚀"
 }
@@ -46,6 +46,7 @@ ml_projects = {
 | 08 | [🍷 Wine Quality Prediction](./08-svm) | Support Vector Machine | Kaggle Red Wine | Acc: 0.77 |
 | 09 | [📧 Spam Detection](./09-naive-bayes) | Naive Bayes + NLP | Kaggle SMS Spam | Acc: 0.98 |
 | 10 | [🪙 Customer Churn Prediction](./10-random-forest-classification) | Random Forest Classification | Kaggle Telco Churn | Recall: 0.86 |
+| 11 | [💳 Credit Card Customer Segmentation](./11-kmeans-clustering) | KMeans Clustering | Kaggle Credit Card | Silhouette: 0.25 |
 
 ---
 
