@@ -28,8 +28,13 @@ ml_projects = {
     "tools":    ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Mlxtend"],
     "status":   "Active & Growing 🚀"
 }
+```
+
+<br />
 
 ---
+
+<br />
 
 ## 📁 Projects
 
@@ -48,7 +53,11 @@ ml_projects = {
 | 11 | [💳 Credit Card Customer Segmentation](./11-kmeans-clustering) | KMeans Clustering | Kaggle Credit Card | Silhouette: 0.25 |
 | 12 | [🛒 Market Basket Optimization](./12-apriori) | Apriori (Association Rules) | Kaggle Market Basket | Max Lift: 3.66 |
 
+<br />
+
 ---
+
+<br />
 
 ## 🗺️ My AI Roadmap
 
@@ -69,7 +78,11 @@ ml_projects = {
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 ## ⚙️ Each Project Includes
 
