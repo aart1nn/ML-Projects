@@ -67,7 +67,7 @@ ml_projects = {
 ╔══════════════════════════════════════════════════════════╗
 ║              ARTIN'S LEARNING JOURNEY                    ║
 ╠══════════════════════════════════════════════════════════╣
-║  ██████████  Python                            ✅ Mastered ║
+║  ██████████  Python                          ✅ Mastered ║
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
 ║  ██████████  Machine Learning                ✅ Done     ║
 ║  ████░░░░░░  Deep Learning                   🔥 Active   ║
