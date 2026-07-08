@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=11+End-to-End+Machine+Learning+Projects;Real+Datasets+%7C+Real+Results+%7C+Real+Insights;Regression+%7C+Classification+%7C+Clustering+%7C+NLP;Built+with+Python+%7C+Scikit-Learn+%7C+Pandas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=12+End-to-End+Machine+Learning+Projects;Real+Datasets+%7C+Real+Results+%7C+Real+Insights;Regression+%7C+Classification+%7C+Clustering+%7C+Data+Mining;Built+with+Python+%7C+Scikit-Learn+%7C+Pandas)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aart1nn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![Projects](https://img.shields.io/badge/PROJECTS-11-7c3aed?style=for-the-badge)
+![Projects](https://img.shields.io/badge/PROJECTS-12-7c3aed?style=for-the-badge)
 &nbsp;
 ![ML](https://img.shields.io/badge/MACHINE+LEARNING-✓-7c3aed?style=for-the-badge)
 
@@ -24,11 +24,10 @@
 ml_projects = {
     "goal":     "End-to-end ML projects on real-world datasets",
     "pipeline": "Load → Clean → Select → Scale → Train → Evaluate → Visualize",
-    "topics":   ["Regression", "Classification", "Ensemble", "SVM", "KNN", "NLP", "Clustering"],
-    "tools":    ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib"],
+    "topics":   ["Regression", "Classification", "Ensemble", "SVM", "KNN", "NLP", "Clustering", "Association Rules"],
+    "tools":    ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Mlxtend"],
     "status":   "Active & Growing 🚀"
 }
-```
 
 ---
 
@@ -47,6 +46,7 @@ ml_projects = {
 | 09 | [📧 Spam Detection](./09-naive-bayes) | Naive Bayes + NLP | Kaggle SMS Spam | Acc: 0.98 |
 | 10 | [🪙 Customer Churn Prediction](./10-random-forest-classification) | Random Forest Classification | Kaggle Telco Churn | Recall: 0.86 |
 | 11 | [💳 Credit Card Customer Segmentation](./11-kmeans-clustering) | KMeans Clustering | Kaggle Credit Card | Silhouette: 0.25 |
+| 12 | [🛒 Market Basket Optimization](./12-apriori) | Apriori (Association Rules) | Kaggle Market Basket | Max Lift: 3.66 |
 
 ---
 
@@ -54,11 +54,11 @@ ml_projects = {
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════╗
-║               ARTIN'S LEARNING JOURNEY                   ║
+║              ARTIN'S LEARNING JOURNEY                    ║
 ╠══════════════════════════════════════════════════════════╣
-║  ██████████  Python                          ✅ Mastered ║
+║  ██████████  Python                            ✅ Mastered ║
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
 ║  ██████████  Machine Learning                ✅ Done     ║
 ║  ████░░░░░░  Deep Learning                   🔥 Active   ║
@@ -83,9 +83,9 @@ ml_projects = {
 
 ✅ Model Training & Tuning
 
-✅ Evaluation Metrics (R2, RMSE, Accuracy, Precision, Recall, Confusion Matrix)
+✅ Evaluation Metrics (R2, RMSE, Accuracy, Precision, Recall, Confusion Matrix, Lift/Support)
 
-✅ Visualizations
+✅ Visualizations (Custom Dark Theme Plots)
 
 ---
 
@@ -98,6 +98,8 @@ ml_projects = {
 ![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![Seaborn](https://img.shields.io/badge/Seaborn-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
+![Mlxtend](https://img.shields.io/badge/Mlxtend-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1a0533?style=for-the-badge&logo=jupyter&logoColor=c4b5fd)
 
 </div>
