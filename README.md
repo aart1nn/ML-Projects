@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=13+End-to-End+Machine+Learning+%26+RL+Projects;Real+Datasets+%7C+Real+Results+%7C+Real+Insights;Regression+%7C+Classification+%7C+Clustering+%7C+Reinforcement+Learning;Built+with+Python+%7C+Scikit-Learn+%7C+Pandas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=14+End-to-End+Machine+Learning+%26+RL+Projects;Real+Datasets+%7C+Real+Results+%7C+Real+Insights;Regression+%7C+Classification+%7C+Clustering+%7C+Reinforcement+Learning;Built+with+Python+%7C+Scikit-Learn+%7C+XGBoost+%7C+Pandas)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aart1nn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![Projects](https://img.shields.io/badge/PROJECTS-13-7c3aed?style=for-the-badge)
+![Projects](https://img.shields.io/badge/PROJECTS-14-7c3aed?style=for-the-badge)
 &nbsp;
 ![ML](https://img.shields.io/badge/MACHINE+LEARNING-✓-7c3aed?style=for-the-badge)
 &nbsp;
@@ -26,8 +26,8 @@
 ml_projects = {
     "goal":     "End-to-end ML projects on real-world datasets",
     "pipeline": "Load → Clean → Select → Scale → Train → Evaluate → Visualize",
-    "topics":   ["Regression", "Classification", "Ensemble", "SVM", "KNN", "NLP", "Clustering", "Association Rules", "Reinforcement Learning"],
-    "tools":    ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Mlxtend", "SciPy"],
+    "topics":   ["Regression", "Classification", "Ensemble", "SVM", "KNN", "NLP", "Clustering", "Association Rules", "Reinforcement Learning", "Gradient Boosting"],
+    "tools":    ["Python", "Scikit-Learn", "XGBoost", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Mlxtend", "SciPy"],
     "status":   "Active & Growing 🚀"
 }
 ```
@@ -65,6 +65,14 @@ ml_projects = {
 
 <br />
 
+## 💳 Advanced / Gradient Boosting Projects
+
+| # | Project | Algorithms | Dataset | Result |
+|---|---------|-----------|---------|-------|
+| 14 | [💳 Credit Default Prediction](./14-XG-boosting) | XGBoost (cost-sensitive) | UCI Credit Card Default | +51% recall, -8.4% cost |
+
+<br />
+
 ---
 
 <br />
@@ -81,7 +89,7 @@ ml_projects = {
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
 ║  ██████████  Machine Learning                ✅ Done     ║
 ║  ██████░░░░  Deep Learning                   🔥 Active   ║
-║  ███░░░░░░░  Reinforcement Learning          🔥 Active   ║
+║  ██████░░░░  Reinforcement Learning          🔥 Active   ║
 ║  ░░░░░░░░░░  LLMs & Generative AI            🔮 Planned  ║
 ║  ░░░░░░░░░░  AI Agents & Autonomous Systems  🚀 Goal     ║
 ╚══════════════════════════════════════════════════════════╝
@@ -119,6 +127,7 @@ ml_projects = {
 
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a0533?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a0533?style=for-the-badge&logo=xgboost&logoColor=c4b5fd)
 ![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
 ![SciPy](https://img.shields.io/badge/SciPy-1a0533?style=for-the-badge&logo=scipy&logoColor=c4b5fd)
